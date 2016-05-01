@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="opt_weather">Weather</string>
+    <string name="opt_offline">Offline</string>
+    <string name="opt_nightmode">NightMode</string>
+    <string name="opt_search">Search</string>
+    <string name="opt_scan">Scan</string>
+    <string name="opt_settings">Settings</string>
+    <string name="opt_news">News</string>
+    <string name="opt_subscribe">subscribe</string>
+    <string name="opt_picture">Picure</string>
+    <string name="opt_video">Video</string>
+    <string name="opt_response">Response</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

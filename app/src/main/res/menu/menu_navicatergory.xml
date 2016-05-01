@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opt_news"
+        android:title="@string/opt_news"></item>
+    <item
+        android:id="@+id/opt_subscribe"
+        android:title="@string/opt_subscribe"></item>
+    <item
+        android:id="@+id/opt_picture"
+        android:title="@string/opt_picture"></item>
+    <item
+        android:id="@+id/opt_video"
+        android:title="@string/opt_video"></item>
+    <item
+        android:id="@+id/opt_response"
+        android:title="@string/opt_response"></item>
+
+</menu>

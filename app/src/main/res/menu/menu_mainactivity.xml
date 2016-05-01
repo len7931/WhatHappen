@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/opt_userops"
+        android:title="user opts"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/opt_weather"
+        android:title="@string/opt_weather"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/opt_offline"
+        android:title="@string/opt_offline"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/opt_nightmode"
+        android:title="@string/opt_nightmode"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/opt_search"
+        android:title="@string/opt_search"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/opt_scan"
+        android:title="@string/opt_scan"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/opt_settings"
+        android:title="@string/opt_settings"
+        app:showAsAction="never"></item>
+
+</menu>
