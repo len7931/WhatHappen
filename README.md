@@ -5,8 +5,8 @@ A copycat Android News Client of Netease News
 
 ## Demo
 
-[![main window](art/main.gif)[1]
-[![menu window](art/menu.gif)[1]
+[![main window](art/main.gif)
+[![menu window](art/menu.gif)
 
 ## Setup tips
 
