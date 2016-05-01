@@ -1,7 +1,5 @@
 package com.example.wxl.myapplication.bean;
 
-import com.example.wxl.myapplication.bean.ChanelItem;
-
 import java.util.List;
 
 /**
@@ -10,5 +8,5 @@ import java.util.List;
 public class ChannelJson {
     public String code;
     public String msg;
-    public List<ChanelItem> newslist;
+    public List<ChannelItem> newslist;
 }

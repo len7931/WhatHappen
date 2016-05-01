@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import com.example.wxl.myapplication.fragment.NewsBasicFragment;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**

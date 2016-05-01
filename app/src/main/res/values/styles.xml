@@ -9,4 +9,37 @@
 
     </style>
 
+    <style name="NewsItem"></style>
+
+    <style name="NewsItem.Layout">
+        <item name="android:layout_marginBottom">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="NewsItem.ImageView">
+        <item name="android:layout_width">92dp</item>
+        <item name="android:layout_height">68dp</item>
+    </style>
+
+    <style name="NewsItem.Title">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="NewsItem.Src">
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">1dp</item>
+        <item name="android:layout_marginRight">1dp</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
 </resources>

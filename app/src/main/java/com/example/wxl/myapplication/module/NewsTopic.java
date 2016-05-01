@@ -8,15 +8,12 @@ import java.util.List;
  */
 public class NewsTopic {
     public static List<String> getTopics() {
-        List<String> topics = new ArrayList<String>(8);
-        topics.add("android");
-        topics.add("炉石");
-        topics.add("魔兽世界");
-        topics.add("房价");
-        topics.add("股市");
-        topics.add("苍井空");
-        topics.add("阿里");
-        topics.add("腾讯");
+        List<String> topics = new ArrayList<String>(5);
+        topics.add("sports");
+        topics.add("internation");
+        topics.add("social");
+        topics.add("tech");
+        topics.add("apple");
         return topics;
     }
 }

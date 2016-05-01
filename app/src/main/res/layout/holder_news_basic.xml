@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    style="@style/NewsItem.Layout"
+    >
+    <ImageView
+        style="@style/NewsItem.ImageView"
+        android:id="@+id/holder_cover"
+        />
+    <TextView
+        style="@style/NewsItem.Title"
+        android:textColor="#000000"
+        android:layout_toRightOf="@id/holder_cover"
+        android:text="this is Title"
+        android:id="@+id/holder_title">
 
-</LinearLayout>
+    </TextView>
+
+    <TextView
+        style="@style/NewsItem.Src"
+        android:text="Com from"
+        android:layout_alignBottom="@id/holder_cover"
+        android:layout_toRightOf="@id/holder_cover"
+        android:id="@+id/holder_src"></TextView>
+
+    <TextView
+        style="@style/NewsItem.Src"
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@id/holder_cover"
+        android:text="1987-1-1"
+        android:id="@+id/holder_date"></TextView>
+</RelativeLayout>

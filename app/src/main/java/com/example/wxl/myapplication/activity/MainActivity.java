@@ -17,6 +17,7 @@ import android.view.View;
 import com.example.wxl.myapplication.R;
 import com.example.wxl.myapplication.adapter.PagerAdaper;
 import com.example.wxl.myapplication.module.NewsTopic;
+import com.example.wxl.myapplication.network.ChannelNewsRequest;
 
 import java.util.List;
 
@@ -49,6 +50,8 @@ public class MainActivity extends AppCompatActivity {
     private void initTabLayout(List<String> topics) {
         PagerAdaper pageAdapter = new PagerAdaper(getSupportFragmentManager(), topics);
         mViewpager.setAdapter(pageAdapter);
+        mViewpager.setOffscreenPageLimit(4);
+
         mTab.setTabMode(TabLayout.MODE_SCROLLABLE);
         mTab.setupWithViewPager(mViewpager);
     }
@@ -61,13 +64,24 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public boolean isDrawerOpen() {
+        return mDrawer.isDrawerOpen(mNaviCatergory) || mDrawer.isDrawerOpen(mNaviUserOps);
+    }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
         if (id == android.R.id.home) {
-            mDrawer.openDrawer(mNaviCatergory);
+            if (isDrawerOpen())
+                mDrawer.closeDrawers();
+            else {
+                mDrawer.openDrawer(mNaviCatergory);
+            }
         } else if (id == R.id.opt_userops) {
-            mDrawer.openDrawer(mNaviUserOps);
+            if (isDrawerOpen())
+                mDrawer.closeDrawers();
+            else {
+                mDrawer.openDrawer(mNaviUserOps);
+            }
         }
 
         return super.onOptionsItemSelected(item);
