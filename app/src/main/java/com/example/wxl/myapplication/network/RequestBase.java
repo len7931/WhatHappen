@@ -25,15 +25,15 @@ public abstract class RequestBase {
         GSON = new Gson();
     }
 
-    protected OkHttpClient getClient() {
+    protected static OkHttpClient getClient() {
         return CLIENT;
     }
 
-    protected Gson getGson() {
+    protected static Gson getGson() {
         return GSON;
     }
 
-    protected  String getApikey() {
+    protected static  String getApikey() {
         return APIKEY;
     }
 

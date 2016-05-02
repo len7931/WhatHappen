@@ -12,11 +12,34 @@ android {
         versionCode 1
         versionName "1.0"
     }
+
+    sourceSets {
+        main {
+            manifest {
+                srcFile 'src/main/AndroidManifest.xml'
+            }
+            java {
+                srcDir 'src/main/java'
+            }
+            res {
+                srcDir 'src/main/res'
+            }
+            jniLibs {
+                srcDir 'libs'
+            }
+        }
+    }
+
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles 'proguard-rules.pro'
         }
+    }
+
+    dexOptions {
+        preDexLibraries = false
     }
 }
 

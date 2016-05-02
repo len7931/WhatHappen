@@ -1,5 +1,6 @@
 package com.example.wxl.myapplication.activity;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
@@ -17,7 +18,6 @@ import android.view.View;
 import com.example.wxl.myapplication.R;
 import com.example.wxl.myapplication.adapter.PagerAdaper;
 import com.example.wxl.myapplication.module.NewsTopic;
-import com.example.wxl.myapplication.network.ChannelNewsRequest;
 
 import java.util.List;
 
@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
+        startActivity(new Intent(this, SinaLoginActivity.class));
         initToolbar();
         initTabLayout(NewsTopic.getTopics());
     }
@@ -86,6 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

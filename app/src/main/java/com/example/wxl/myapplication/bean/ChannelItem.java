@@ -11,6 +11,7 @@ public class ChannelItem {
     public String url;
 
 
+
     @Override
     public boolean equals(Object o) {
         ChannelItem tmp = (ChannelItem)o;
