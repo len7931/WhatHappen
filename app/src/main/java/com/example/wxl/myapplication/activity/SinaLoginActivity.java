@@ -69,6 +69,8 @@ public class SinaLoginActivity extends AppCompatActivity {
             mAccessToken = Oauth2AccessToken.parseAccessToken(values);
             if (mAccessToken.isSessionValid()) {
                 Log.d("wxl", mAccessToken.getToken());
+                Log.d("wxl", mAccessToken.getUid());
+                Log.d("wxl", "Expire: " + mAccessToken.getExpiresTime());
                 Log.d("wxl", "OK");
             } else {
                 Log.d("wxl", "failed");
