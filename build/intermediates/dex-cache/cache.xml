@@ -2,123 +2,123 @@
 <items version="2" >
 
     <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_c5578ba3d6608c126122872fd42ef17fd01b642d.jar" />
+        sha1="391cb2265dd8e78c5c18761e41c4beff2606bf90">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b410b724a15feb4dcf9aa261e8256635363bb5f/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_307c394e1677ceb705307002ebb6af263d411187.jar" />
-    </item>
-    <item
-        jar="/home/wxl/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_f7acde7c2be155c2668b9b3680f4566d870b1a7f.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="bba1a093705106f1069025be07ed508309829ef5">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/instant-run_79962203ec6dba1ef48c01df37f69f0d8f35b0df.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_60961f6e51510a8ed5757844f9cc52e184dc4491.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_c8e46e6165dca21b68d48523826d5ff72ae8bb9f.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_8fde24775bf4943c4bb452f97e2235c139c56177.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_d312419dc4ad2d9f4f5275fc9ee12636588528e8.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_6a5b997de29bce79bd498cfa6ca3e1d26cc0c869.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/libs/weiboSDKCore_3.1.4.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="e10a6e235c3de0dd2baa3731cc7d8ba40a550406">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/weiboSDKCore_3.1.4_2c89329d49c763844b1dbc5d7bac399f5bbd1f15.jar" />
-    </item>
-    <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_3128d68c7f1cc492b92deadf7f4780de8e6d83f2.jar" />
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_6f70172528a848e9509b7f115d5460dbf92cbf31/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="85fb03ce49aab557090468d43838aef60d874004">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1f2af34edbb7b7f4e106c92f2a1dcb0934fb0c0d.jar" />
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_85db9680a1d467c534738b783ed442e82ea32e9a/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_a3281e6cc53f2bdbb49c425ac1bcf1938fe86fd0.jar" />
-    </item>
-    <item
-        jar="/home/wxl/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jar="/Users/wxl/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/okio-1.6.0_91f3df947b3b9b9e394c2611add49023ec727880.jar" />
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_852a6ca33b8415a55e5bd35dd40241be2427100f/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/glide-3.7.0_c1a611889ed15daba5e450339c209c89c4d09ed6.jar" />
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_eeacab1236126d1a2ccb014b24a29ca720e54d97/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/libs/weiboSDKCore_3.1.4.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/gson-2.6.2_99bdc33eaf78cb6f815dca6de8ef94263f5080c7.jar" />
+        sha1="e10a6e235c3de0dd2baa3731cc7d8ba40a550406">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/2/weiboSDKCore_3.1.4_68d6651e644ebe04ac43519593346fbf38190b5f/classes.dex" />
     </item>
     <item
-        jar="/home/wxl/workspace/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_9b87d41a43a24eca166411ca855c9ded06ea5dad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/home/wxl/workspace/github/WhatHappen/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_bb66f95753042607bf575de705a5f8fc83392c97.jar" />
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_9b6f93ed5f814ce15f3bf8bf5761e5bad75c2ed3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_6f42b41ab43483392ba683a00e60c04614799f79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe6feb962b9284200e1e530b6821ec1d5134d1e6">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_76c92f7494a4e3e403e7835a8e5d6ee99e7cde6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ec3b8440d1889dc20725a14f3a00502bfb70f514/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_08edef7261f94d273db5faa7578e69fb01cc70d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_522fbdaa08084560564edf122247bc72e77095cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_17db14ad4bd6be6aa7cd60d26e40dbb9b42a70bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_1c2cf0436a59aa5c1d8be8f616cb3d3dd30d908a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_3b633dfb1b6769ec58a0a5b0939459cded6a7543/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/wxl/workspace/git_meetings/WhatHappen/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_7525b40ae220de2597e2ad74f2a8636d8b3018df/classes.dex" />
     </item>
 
 </items>
